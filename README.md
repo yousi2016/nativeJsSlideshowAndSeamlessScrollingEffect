@@ -1,0 +1,2 @@
+# nativeJsSlideshowAndSeamlessScrollingEffect
+原生js写的幻灯片+无缝滚动
